@@ -4,7 +4,7 @@ import os
 import time
 
 #when using for the first time, add paths to all your Python versions
-PATHS = {"3.7": "C:/Users/reinh/AppData/Local/Programs/Python/Python37"}
+PATHS = {"3.7": "---here is your path---"}
 
 def pip_install_mod(mod_name, python_version="all", paths = PATHS):
 	"""use os to install a module"""
